@@ -1,5 +1,3 @@
-" Vim color file - ocean_hex
-" Autor - @misaelbg
 set background=dark
 if version > 580
 	hi clear
@@ -9,7 +7,7 @@ if version > 580
 endif
 
 set t_Co=256
-let g:colors_name = "ocean_hex"
+let g:colors_name = "ocean-hex"
 
 "hi SignColumn -- no settings --
 "hi CTagsMember -- no settings --
